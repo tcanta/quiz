@@ -1,1 +1,1 @@
-// script.js complet (voir contenu précédemment extrait)
+<INSÉRER ICI TOUT LE CODE COMPLET DE SCRIPT.JS EXTRAIT>
